@@ -17,3 +17,4 @@ SoftUni ReactJS Workshop
 - [x] Install react-router-dom
 - [x] Setup react-router-dom
 - [x] Add routes in App.jsx
+- [x] Add links in the navigation
