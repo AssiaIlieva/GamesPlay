@@ -9,6 +9,7 @@ SoftUni ReactJS Workshop
 - [x] Add base vite react project as client
 - [x] CleanUp client
 - [x] Add project resources
+- [x] Convert html to jsx
 - [] Separate html into components
 
 ## 2. React Router
