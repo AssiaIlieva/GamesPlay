@@ -24,7 +24,10 @@ SoftUni ReactJS Workshop
 - [x] Service layer architecture
 - [x] Abstract requester
 - [x] Add games api
+- [x] Preseed practice server
 
 ## 4. Page Implementations
 
 - [] Game list
+- [] Details
+- [] Home
