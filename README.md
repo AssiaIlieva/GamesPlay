@@ -29,7 +29,7 @@ SoftUni ReactJS Workshop
 ## 4. Page Implementations
 
 - [x] Game list
-- [] Details
+- [x] Details
   - [x] Details link
   - [x] Details route
   - [x] Api function - getOne
