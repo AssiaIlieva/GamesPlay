@@ -42,3 +42,25 @@ SoftUni ReactJS Workshop
 - [x] Read comments from server
 - [x] Add comments in the component
 - [x] Clear form
+
+## 6. API Hooks
+
+- [x] GameAPI Hooks
+- [x] Comment Hooks
+- [x] Form Hook
+
+## 7. Authentication
+
+- [x] Auth API
+- [ ] Auth API hook
+- [x] Auth state & context
+- [x] Login
+- [x] Register
+- [ ] Logout
+
+## 8. UI Implementation
+
+- [ ] Dynamic navigation
+- [ ] Create game
+  - [ ] API function
+  - [ ] Create hook

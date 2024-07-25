@@ -1,7 +1,7 @@
 async function requester(method, url, data) {
   const options = {};
 
-  if (method !== 'Get') {
+  if (method !== 'GET') {
     options.method = method;
   }
   if (data) {
