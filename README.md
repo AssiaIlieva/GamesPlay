@@ -64,3 +64,4 @@ SoftUni ReactJS Workshop
 - [ ] Create game
   - [ ] API function
   - [ ] Create hook
+- [ ] Latest games
