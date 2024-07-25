@@ -45,13 +45,15 @@ SoftUni ReactJS Workshop
 
 ## 6. API Hooks
 
+- [x] Form Hook
 - [x] GameAPI Hooks
 - [x] Comment Hooks
-- [x] Form Hook
 
 ## 7. Authentication
 
 - [x] Auth API
+  - [x] Login
+  - [ ] Register
 - [ ] Auth API hook
 - [x] Auth state & context
 - [x] Login

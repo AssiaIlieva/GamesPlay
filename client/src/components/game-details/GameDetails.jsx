@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 
-import commentsApi from '../../api/comments-api';
+import commentsAPI from '../../api/comments-api';
 import { useGetOneGame } from '../../hooks/useGames';
 
 export default function GameDetails() {
@@ -13,7 +13,7 @@ export default function GameDetails() {
   const commentSubmitHandler = async (e) => {
     e.preventDefault();
 
-    const newComment = await commentsApi.create(gameId, username, comment);
+    const newComment = await commentsAPI.create(gameId, username, comment);
     setGame((prevState) => ({
       ...prevState,
       comments: {
