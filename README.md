@@ -54,11 +54,14 @@ SoftUni ReactJS Workshop
 - [x] Auth API
   - [x] Login
   - [ ] Register
+  - [ ] Logout
 - [ ] Auth API hook
 - [x] Auth state & context
+- [x] Token management
 - [x] Login
 - [x] Register
 - [ ] Logout
+- [ ] Authorized Requests
 
 ## 8. UI Implementation
 
