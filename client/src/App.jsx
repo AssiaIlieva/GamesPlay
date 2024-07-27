@@ -8,7 +8,7 @@ import Register from './components/register/Register';
 import GameList from './components/game-list/GameList';
 import GameCreate from './components/game-create/GameCreate';
 import GameDetails from './components/game-details/GameDetails';
-import { AuthContex } from './contexts/AuthContext';
+import { AuthContext } from './contexts/AuthContext';
 
 function App() {
   const [authState, setAuthState] = useState({});
@@ -26,7 +26,7 @@ function App() {
     changeAuthState,
   };
   return (
-    <AuthContex.Provider value={contextData}>
+    <AuthContext.Provider value={contextData}>
       <div id="box">
         <Header />
         <main id="main-content">
@@ -40,7 +40,7 @@ function App() {
           </Routes>
         </main>
       </div>
-    </AuthContex.Provider>
+    </AuthContext.Provider>
   );
 }
 

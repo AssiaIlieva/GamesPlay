@@ -53,13 +53,17 @@ SoftUni ReactJS Workshop
 
 - [x] Auth API
   - [x] Login
-  - [ ] Register
+  - [x] Register
   - [ ] Logout
 - [ ] Auth API hook
+  - [x] Login
+  - [x] Register
+  - [ ] Logout
 - [x] Auth state & context
 - [x] Token management
 - [x] Login
 - [x] Register
+  - [x] Add form validation
 - [ ] Logout
 - [ ] Authorized Requests
 
