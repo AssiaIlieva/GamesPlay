@@ -69,7 +69,7 @@ SoftUni ReactJS Workshop
 
 ## 8. UI Implementation
 
-- [ ] Dynamic navigation
+- [x] Dynamic navigation
 - [ ] Create game
   - [ ] API function
   - [ ] Create hook

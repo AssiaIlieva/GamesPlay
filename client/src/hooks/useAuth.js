@@ -8,7 +8,8 @@ export const useLogin = () => {
 
   const loginHandler = async (email, password) => {
     const result = await login(email, password);
-    changeAuthState(result);
+    const { password: _, ...authData } = result;
+    changeAuthState(authData);
     return result;
   };
 
