@@ -1,8 +1,8 @@
 import { useNavigate } from 'react-router-dom';
+import { useState } from 'react';
 
 import { useRegister } from '../../hooks/useAuth';
 import { useForm } from '../../hooks/useForm';
-import { useState } from 'react';
 
 const initialValues = { email: '', password: '', 'confirm-password': '' };
 

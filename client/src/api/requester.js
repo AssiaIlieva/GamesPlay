@@ -15,7 +15,7 @@ async function requester(method, url, data) {
   const result = await responce.json();
 
   if (!responce.ok) {
-    throw result;
+    throw new Error(responce);
   }
 
   return result;
